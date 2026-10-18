@@ -1,8 +1,8 @@
 #  Impartial Games: Nim & Tic-Tac-Toe
 
-Four terminal games with perfect-play AI opponents, built as **Assignment** for *Algorithmic Game Theory* (Computer Engineering & Informatics Dept., University of Patras, 2025-2026).
+Four terminal games with perfect-play computer opponents (computer solvers) , built as **Assignment** for *Algorithmic Game Theory* (Computer Engineering & Informatics Dept., University of Patras, 2025-2026).
 
-All games are **impartial**: both players have exactly the same moves available, so all that matters is whose turn it is. The AI relies on combinatorial game theory (Sprague-Grundy theory, Nim-sums, symmetry/copycat strategies, and backward induction with memoization) to play optimally whenever it is in a winning position.
+All games are **impartial**: both players have exactly the same moves available, so all that matters is whose turn it is. The "AI" (computer solver) relies on combinatorial game theory (Sprague-Grundy theory, Nim-sums, symmetry/copycat strategies, and backward induction with memoization) to play optimally whenever it is in a winning position.
 
 ---
 
@@ -208,7 +208,7 @@ Same idea on a 4x4 board, **normal play only**. The game ends when any of the **
 
 ---
 
-## 📁 Repository structure
+##  Repository structure
 
 ```
 .
