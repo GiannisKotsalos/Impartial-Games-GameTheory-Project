@@ -1,6 +1,6 @@
 #  Impartial Games: Nim & Tic-Tac-Toe
 
-Four terminal games with perfect-play AI opponents, built as **Assignment 1** for *Algorithmic Game Theory* (Computer Engineering & Informatics Dept., University of Patras, 2025-2026).
+Four terminal games with perfect-play AI opponents, built as **Assignment** for *Algorithmic Game Theory* (Computer Engineering & Informatics Dept., University of Patras, 2025-2026).
 
 All games are **impartial**: both players have exactly the same moves available, so all that matters is whose turn it is. The AI relies on combinatorial game theory (Sprague-Grundy theory, Nim-sums, symmetry/copycat strategies, and backward induction with memoization) to play optimally whenever it is in a winning position.
 
@@ -24,8 +24,6 @@ Every game supports **Human vs Human** and **Human vs Computer**. Against the co
 **Requirements:** Python 3.9 or newer. No external libraries, standard library only.
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
 
 python3 NimStack.py
 python3 MultipuleNimStacks.py
