@@ -235,7 +235,7 @@ Same idea on a 4x4 board, **normal play only**. The game ends when any of the **
 
 ##  Author
 
-**Ioannis Kotsalos**
+**Giannis Kotsalos**
 Computer Engineering & Informatics, University of Patras
 Course: *Algorithmic Game Theory*, academic year 2025-2026
 
