@@ -240,7 +240,7 @@ def choose(prompt: str, options: dict[str, str]) -> str:
 
 def main() -> None:
     print("\n╔══════════════════════════════════════════════════╗")
-    print("║  CEID_NE0509  ·  P3: Impartial 3×3 Tic-Tac-Toe   ║")
+    print("║     Impartial 3×3 Tic-Tac-Toe   ║")
     print("╚══════════════════════════════════════════════════╝")
 
     while True:
